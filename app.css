@@ -1,0 +1,44 @@
+/* src/App.css */
+.app {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.chat {
+  margin: 20px 0;
+  max-height: 300px;
+  overflow-y: auto;
+  background: #f4f4f4;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.message.user {
+  text-align: right;
+  color: blue;
+}
+
+.message.ai {
+  text-align: left;
+  color: green;
+}
+
+.controls {
+  display: flex;
+  gap: 8px;
+}
+
+input {
+  flex: 1;
+  padding: 8px;
+}
+
+button {
+  padding: 8px;
+}
