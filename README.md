@@ -1,4 +1,4 @@
-                                  **AiTherapist: Agentic Emotional Intelligence System:**
+    **AiTherapist: Agentic Emotional Intelligence System:**
 
 **1. The Vision:**
    
@@ -39,7 +39,7 @@ The Stack:
 
 
 
-                                    **  Getting Started:**
+      **  Getting Started:**
 
   
 **1. Prerequisites**
@@ -79,7 +79,7 @@ The app will be live at http://localhost:3000
 
 
 
-                                        **Roadmap & Strategic Evolution:**
+    **Roadmap & Strategic Evolution:**
                                 
 
 **Phase 1: Core Chat Integration**
